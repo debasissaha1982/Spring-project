@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-aop-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-aop-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-indexer-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-indexer-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-indexer-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-support-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-support-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-context-support-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-core-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-core-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-expression-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-expression-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-instrument-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-instrument-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-instrument-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jms-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jms-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-jms-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-messaging-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-orm-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-orm-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-oxm-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-oxm-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-oxm-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-test-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-tx-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-tx-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-web-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-webflux-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-webflux-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-webflux-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-websocket-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-websocket-5.1.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Debasis Saha Document/External Jars/spring-framework-5.1.5.RELEASE/spring-websocket-5.1.5.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
